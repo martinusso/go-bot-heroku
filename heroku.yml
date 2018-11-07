@@ -4,5 +4,5 @@ build:
   languages:
     - go
 
-run:
-web: go-getting-started
+run: go-bot-heroku
+web: go-bot-heroku
