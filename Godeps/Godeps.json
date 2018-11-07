@@ -1,0 +1,102 @@
+{
+	"ImportPath": "github.com/martinusso/go-bot-heroku",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-chat-bot/bot",
+			"Rev": "98470a5844fe3c0760db3a59850a129dd4c0c21d"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/bot/rocket",
+			"Rev": "98470a5844fe3c0760db3a59850a129dd4c0c21d"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins-br/cnpj",
+			"Rev": "3e31e6aeb0ddfdb6923f9ccc41e3dd45061a4ef6"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins-br/cpf",
+			"Rev": "3e31e6aeb0ddfdb6923f9ccc41e3dd45061a4ef6"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins-br/dilma",
+			"Rev": "3e31e6aeb0ddfdb6923f9ccc41e3dd45061a4ef6"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins-br/lula",
+			"Rev": "3e31e6aeb0ddfdb6923f9ccc41e3dd45061a4ef6"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/catfacts",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/catgif",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/chucknorris",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/crypto",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/encoding",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/godoc",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/treta",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/go-chat-bot/plugins/web",
+			"Rev": "a0212b4d12d1ad7a1f310fbb462ccc4b40009518"
+		},
+		{
+			"ImportPath": "github.com/martinusso/go-docs/cnpj",
+			"Rev": "81905d575a58d3c6c690c32da2e430411c5de145"
+		},
+		{
+			"ImportPath": "github.com/martinusso/go-docs/cpf",
+			"Rev": "81905d575a58d3c6c690c32da2e430411c5de145"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-shellwords",
+			"Comment": "v1.0.3-22-g3c0603f",
+			"Rev": "3c0603ff9671145648171317c30371d805656003"
+		},
+		{
+			"ImportPath": "github.com/mozillazg/go-unidecode",
+			"Comment": "v0.1.0-6-g8772af7",
+			"Rev": "8772af720c7f2f4d216cc73c5f23de17450dd008"
+		},
+		{
+			"ImportPath": "github.com/mozillazg/go-unidecode/table",
+			"Comment": "v0.1.0-6-g8772af7",
+			"Rev": "8772af720c7f2f4d216cc73c5f23de17450dd008"
+		},
+		{
+			"ImportPath": "github.com/pyinx/gorocket/api",
+			"Rev": "78ae1353729ff8f324a15104177a9d2326ed7519"
+		},
+		{
+			"ImportPath": "github.com/pyinx/gorocket/rest",
+			"Rev": "78ae1353729ff8f324a15104177a9d2326ed7519"
+		},
+		{
+			"ImportPath": "github.com/robfig/cron",
+			"Comment": "v1.1",
+			"Rev": "b41be1df696709bb6395fe435af20370037c0b4c"
+		}
+	]
+}
