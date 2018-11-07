@@ -25,7 +25,7 @@ func main() {
 		Email:    os.Getenv("ROCKET_EMAIL"),
 		Password: os.Getenv("ROCKET_PASSWORD"),
 		UseTLS:   false,
-		Debug:    os.Getenv("DEBUG") != "",
+		Debug:    false,
 	}
 	rocket.Run(config)
 }
